@@ -5,9 +5,8 @@
 }
 
 body{
-	margin: 10px; /* Often browsers have a 5px margin by deafult*/
-	font-family: "Minion Pro",sans-serif;
-	font-size: 25px;
+	margin: 0px; /* Often browsers have a 5px margin by deafult*/
+	font-family: "DIN Alternate",sans-serif;
 	color: #0E0b16;
 }
 
@@ -23,10 +22,8 @@ section{
 header{
 	background-color: #0E0b16;
 	color: #67aeca; /* more readable on an orange background */
-	font-family: "Alien League Bold",sans-serif;
-	font-size: 25px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 #header1{
