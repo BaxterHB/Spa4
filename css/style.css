@@ -94,11 +94,32 @@ nav a:hover{
 }
 
 #network{
-	width: 1000px;
+	width: 80%;
+	height: auto;
 }
 
-#phone{
-	width: 300px;
+#access{
+	width: 20%;
+    position: absolute;
+    top: 17.3%;
+    left: 40.3%;
+    height: auto;
+}
+
+#settings{
+	width: 15%;
+    position: absolute;
+    top: 20%;
+    left: 19.3%;
+    height: auto;
+}
+
+#support{
+	width: 15%;
+    position: absolute;
+    top: 20%;
+    left: 65.7%;
+    height: auto;
 }
 
 
